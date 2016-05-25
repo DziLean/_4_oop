@@ -1,0 +1,3 @@
+H:\_4_oop\Fox\obj\Release\Fox.csprojResolveAssemblyReference.cache
+H:\_4_oop\Fox\obj\Release\_3_oop.FoxForm.resources
+H:\_4_oop\Fox\obj\Release\Fox.csproj.GenerateResource.Cache

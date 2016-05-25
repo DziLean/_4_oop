@@ -1,0 +1,3 @@
+H:\_4_oop\Dolphin\obj\Release\Dolphin.csprojResolveAssemblyReference.cache
+H:\_4_oop\Dolphin\obj\Release\_3_oop.DolphinForm.resources
+H:\_4_oop\Dolphin\obj\Release\Dolphin.csproj.GenerateResource.Cache

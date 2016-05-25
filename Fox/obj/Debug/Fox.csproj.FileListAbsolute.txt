@@ -1,0 +1,20 @@
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Fox\obj\Debug\Fox.csprojResolveAssemblyReference.cache
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Fox\bin\Debug\Fox.dll
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Fox\bin\Debug\Fox.pdb
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Fox\bin\Debug\Animal.dll
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Fox\bin\Debug\Walkers.dll
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Fox\bin\Debug\Animal.pdb
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Fox\bin\Debug\Walkers.pdb
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Fox\obj\Debug\Fox.dll
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Fox\obj\Debug\Fox.pdb
+G:\_4_oop\Fox\bin\Debug\Fox.dll
+G:\_4_oop\Fox\bin\Debug\Fox.pdb
+G:\_4_oop\Fox\bin\Debug\Animal.dll
+G:\_4_oop\Fox\bin\Debug\Walkers.dll
+G:\_4_oop\Fox\bin\Debug\Animal.pdb
+G:\_4_oop\Fox\bin\Debug\Walkers.pdb
+G:\_4_oop\Fox\obj\Debug\Fox.csprojResolveAssemblyReference.cache
+G:\_4_oop\Fox\obj\Debug\Fox.dll
+G:\_4_oop\Fox\obj\Debug\Fox.pdb
+G:\_4_oop\dlls\includes\Fox.dll
+G:\_4_oop\dlls\includes\Fox.pdb
